@@ -1,0 +1,5 @@
+name = Views Exposed Forms Ajax Support
+description = Adds Ajax Support to Views Exposed Forms
+dependencies[] = views
+package = views
+core = 7.x
